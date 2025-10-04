@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1759564800 source:z:\Кафедра кибернетики Студент\4208\Волошин Михаил\nora\calculate.cpp
+	"Calculate.h"
+	<iostream>
+	<string>
+
+1759563097 z:\Кафедра кибернетики Студент\4208\Волошин Михаил\nora\calculate.h
+	<string>
+
+1759564863 source:z:\Кафедра кибернетики Студент\4208\Волошин Михаил\nora\main.cpp
+	<iostream>
+	"Calculate.h"
+	"Calculate.h"
+	<string>
+
